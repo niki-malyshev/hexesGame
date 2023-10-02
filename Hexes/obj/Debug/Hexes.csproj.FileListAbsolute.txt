@@ -1,0 +1,10 @@
+D:\My docs\Задания\Hexes\Hexes\bin\Debug\Hexes.exe.config
+D:\My docs\Задания\Hexes\Hexes\bin\Debug\Hexes.exe
+D:\My docs\Задания\Hexes\Hexes\bin\Debug\Hexes.pdb
+D:\My docs\Задания\Hexes\Hexes\obj\Debug\Hexes.csprojAssemblyReference.cache
+D:\My docs\Задания\Hexes\Hexes\obj\Debug\Hexes.Form1.resources
+D:\My docs\Задания\Hexes\Hexes\obj\Debug\Hexes.Properties.Resources.resources
+D:\My docs\Задания\Hexes\Hexes\obj\Debug\Hexes.csproj.GenerateResource.cache
+D:\My docs\Задания\Hexes\Hexes\obj\Debug\Hexes.csproj.CoreCompileInputs.cache
+D:\My docs\Задания\Hexes\Hexes\obj\Debug\Hexes.exe
+D:\My docs\Задания\Hexes\Hexes\obj\Debug\Hexes.pdb
